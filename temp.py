@@ -16,7 +16,7 @@ from openai.embeddings_utils import cosine_similarity, get_embedding
 # https://platform.openai.com/account/api-keys
 #from getpass import getpass
 #openai.api_key = getpass()
-openai.api_key = "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"
+openai.api_key = ""
 
 st.title("📒 Notebook AI 🤖 ")
 
